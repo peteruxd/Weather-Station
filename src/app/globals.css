@@ -10,7 +10,7 @@
   --background-start: #f0f4ff;
   --background-end: #dfe9f3;
   --foreground: #1a202c;
-  
+
   --card-bg: rgba(255, 255, 255, 0.6);
   --card-border: rgba(255, 255, 255, 0.5);
   --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
@@ -35,7 +35,7 @@
 */
 .dark {
   --background-start: #0f0c29;
-  --background-end: #302b63; 
+  --background-end: #302b63;
   /* or a nice dark gradient: #0f0c29, #302b63, #24243e */
   --foreground: #f8fafc;
 
